@@ -11,4 +11,5 @@ package com.bread.demo;
 public class SomeBreads {
     
     private int numberOfBreads=1;
+    private int someMoreEnhancements=1;
 }
