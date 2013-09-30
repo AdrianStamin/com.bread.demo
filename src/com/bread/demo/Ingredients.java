@@ -8,12 +8,7 @@ package com.bread.demo;
  *
  * @author Adi
  */
-public class ComBreadDemo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
+public class Ingredients {
+    private String ingredients;
+    private String ingredients2;
 }
